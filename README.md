@@ -1,6 +1,8 @@
 # About Me
 
-Hello! I'm an aspiring Junior .NET Developer currently training with Generation Italy. I'm passionate about coding and continuous learning. My tech journey has been fueled by a desire to solve problems and create meaningful applications.
+Hello! I'm an aspiring Junior .NET Developer currently training with Generation Italy. 
+I'm passionate about coding and continuous learning. 
+My tech journey has been fueled by a desire to solve problems and create meaningful applications.
 
 ## Tech Stack
 
