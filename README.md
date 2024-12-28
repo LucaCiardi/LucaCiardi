@@ -2,7 +2,7 @@
 
 Hello! I'm an aspiring Junior .NET Developer currently training with Generation Italy.  
 I'm passionate about coding and continuous learning.  
-My journey into tech has been fueled by a desire to solve problems and create meaningful applications.
+My tech journey has been fueled by a desire to solve problems and create meaningful applications.
 
 ## Tech Stack
 
@@ -23,5 +23,5 @@ I'm currently working on various projects to apply what I've learned. You can ch
 
 Feel free to connect with me:
 
-- [LeetCode](https://leetcode.com/u/lxcIe07WlR/)
-- [Codewars](https://www.codewars.com/users/calon96)
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/lxcIe07WlR/)  
+[![Codewars](https://www.codewars.com/packs/assets/logo.61192cf7.svg)](https://www.codewars.com/users/calon96)  
