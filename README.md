@@ -27,5 +27,5 @@ Feel free to connect with me:
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="24">
 </a>  
 <a href="https://www.codewars.com/users/calon96">
-    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars" height="24">
+    <img src="https://raw.githubusercontent.com/Codewars/codewars.com/master/public/favicon/favicon-32x32.png" alt="Codewars" height="24">
 </a>
