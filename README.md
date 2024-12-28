@@ -17,7 +17,7 @@ Here are the technologies I'm currently learning and working with:
 
 ## Projects
 
-I'm currently working on various projects to apply what I've learned. You can take a look at my repositories to see some of the work I've done.
+I'm currently working on various projects to apply what I've learned. My repositories contain some of my work.
 
 ## Contact
 
