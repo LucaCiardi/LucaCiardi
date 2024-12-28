@@ -1,7 +1,3 @@
-# About me
-
-**Aspiring Junior .NET Developer** | Passionate about coding and continuous learning | Currently honing my skills through the Generation Italy program
-
 ## Tech Stack
 
 ![T-SQL](https://img.shields.io/badge/-T--SQL-blue?logo=microsoft-sql-server&logoColor=white)
