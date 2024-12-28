@@ -23,5 +23,9 @@ I'm currently working on various projects to apply what I've learned. You can ch
 
 Feel free to connect with me:
 
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/lxcIe07WlR/)  
-[![Codewars](https://www.codewars.com/packs/assets/logo.61192cf7.svg)](https://www.codewars.com/users/calon96)  
+<a href="https://leetcode.com/u/lxcIe07WlR/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="24">
+</a>  
+<a href="https://www.codewars.com/users/calon96">
+    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="Codewars" height="24">
+</a>
