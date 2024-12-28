@@ -17,15 +17,11 @@ Here are the technologies I'm currently learning and working with:
 
 ## Projects
 
-I'm currently working on various projects to apply what I've learned. You can check out my repositories to see some of the work I've done.
+I'm currently working on various projects to apply what I've learned. You can take a look at my repositories to see some of the work I've done.
 
 ## Contact
 
 Feel free to connect with me:
 
-<a href="https://leetcode.com/u/lxcIe07WlR/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="24">
-</a>  
-<a href="https://www.codewars.com/users/calon96">
-    <img src="https://raw.githubusercontent.com/Codewars/codewars.com/master/public/favicon/favicon-32x32.png" alt="Codewars" height="24">
-</a>
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="24" style="border: none;">](https://leetcode.com/u/lxcIe07WlR/)
+- [<img src="https://raw.githubusercontent.com/codewars/branding/master/logo-black.svg" alt="Codewars" height="24" style="border: none;">](https://www.codewars.com/users/calon96)
