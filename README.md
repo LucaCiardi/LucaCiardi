@@ -1,4 +1,4 @@
-# Bio
+# About me
 
 **Aspiring Junior .NET Developer** | Passionate about coding and continuous learning | Currently honing my skills through the Generation Italy program
 
