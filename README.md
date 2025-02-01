@@ -16,7 +16,12 @@ Here are the technologies I'm currently learning and working with:
 ![.NET](https://img.shields.io/badge/-.NET-purple?logo=.net&logoColor=white)
 
 ## GitHub Stats
-![LucaCiardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaCiardi&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LucaCiardi&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=LucaCiardi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCiardi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## Contact
 
