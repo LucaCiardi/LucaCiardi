@@ -15,9 +15,8 @@ Here are the technologies I'm currently learning and working with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-purple?logo=.net&logoColor=white)
 
-## Projects
-
-I'm currently working on various projects to apply what I've learned. My repositories contain some of my work.
+## GitHub Stats
+![LucaCiardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaCiardi&show_icons=true&theme=radical)
 
 ## Contact
 
